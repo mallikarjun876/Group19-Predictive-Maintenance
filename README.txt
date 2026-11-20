@@ -18,8 +18,3 @@ code/
     Completed source-code structure, training scripts, multi-seed/lambda
     experiment orchestrator, scoring utilities, MetroPT pilot, and README.
 
-IMPORTANT:
-The archive includes code and sample-format data, not completed experiment
-outputs. No training runs were performed while preparing this package.
-Read code/README.md for installation, dataset placement, commands, outputs,
-and reproducibility limitations.
